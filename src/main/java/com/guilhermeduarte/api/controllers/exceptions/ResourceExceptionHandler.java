@@ -1,4 +1,4 @@
-package com.guilhermeduarte.api.controller.exceptions;
+package com.guilhermeduarte.api.controllers.exceptions;
 
 import java.time.Instant;
 

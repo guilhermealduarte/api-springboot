@@ -1,4 +1,4 @@
-package com.guilhermeduarte.api.controller.exceptions;
+package com.guilhermeduarte.api.controllers.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
